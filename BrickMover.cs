@@ -3,7 +3,7 @@ using UnityEngine;
 public class BrickMover : MonoBehaviour
 {
     private GameConstants constants;
-    public float moveSpeed;     // 砖块移动速度
+    public float moveSpeed;     // 砖块移动速度2
     public float moveRange;     // 移动范围
 
     private bool isDropping = false;
